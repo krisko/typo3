@@ -1,0 +1,312 @@
+11-03-14 09:57: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:57: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:57: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:57: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:57: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:57: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:57: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:57: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:57: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:57: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:57: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:57: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:57: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:58: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 09:59: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:00: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:01: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:02: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:03: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:04: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:05: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:06: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:07: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:08: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:09: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:10: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:11: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:11: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:12: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:12: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:12: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:12: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:12: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:12: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:13: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:23: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:23: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:23: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:23: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:23: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:23: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:24: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:25: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:25: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:25: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:25: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:25: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:25: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:25: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:25: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:25: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:25: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:26: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:26: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:26: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:26: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:26: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:26: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:26: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:26: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:26: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:26: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:26: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:26: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:27: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:27: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:27: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:27: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:27: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:27: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:27: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:27: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:27: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:27: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:27: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:27: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:28: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.
+11-03-14 10:28: Usage of $ICON_TYPES is deprecated since 4.4.
+The extTables.php entry $ICON_TYPES['news'] = '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif'; should be replaced with
+t3lib_SpriteManager::addTcaTypeIcon('pages', 'contains-news', '../typo3conf/ext/tt_news/res/gfx/ext_icon_ttnews_folder.gif');
+instead.

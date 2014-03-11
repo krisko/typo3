@@ -1,0 +1,6 @@
+[submodule "typo3conf"]
+	path = typo3conf
+	url = https://github.com/krisko/typo3.git
+[submodule "typo3conf2"]
+	path = typo3conf2
+	url = https://github.com/krisko/typo3conf.git
